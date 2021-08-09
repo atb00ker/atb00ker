@@ -5,5 +5,6 @@
 - 📫 How to reach me: ajay39in@gmail.com | Telgram: @atb00ker | Twitter: @atb00ker 
 - ⚙️ I take pride in engineering solutions of day-to-day inconveniences.
 - 😄 I mentor students, 🧑‍🤝‍🧑 contribute to open-source, 💸 [donate to non-profits](https://twitter.com/search?q=(%232dollarhabit)%20(from%3Aatb00ker)&src=typed_query) as I see the world to be a positive sum game.
+- 🦸‍♂️ Supporter of right to privacy and right to repair.
 - 🤔 I define myself as a stoic, existentialist, friendly, confident, creative, playful, problem solver, philosopher & environmentalist.
-- 🦸‍♂️ Supporter of right to privacy and right to repair. 
+- 🖥️ Blog: [atb00ker.medium.com](https://atb00ker.medium.com/) | Website: [atb00ker.github.io](https://atb00ker.github.io/)
