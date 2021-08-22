@@ -1,4 +1,4 @@
-#### Hi there, I am Ajay Tripathi (He/Him) 👋
+#### Hi there, I am Ajay Tripathi 👋
 
 - 🌱 I’m currently learning Golang, Hasura, GraphQL & React.
 - 👯 I’m looking to collaborate on IoT Projects.
